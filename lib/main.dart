@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'dooboolab flutter calendar',
+      title: 'develop flutter calendar',
       theme: ThemeData(
         primarySwatch: Colors.purple,
       ),
